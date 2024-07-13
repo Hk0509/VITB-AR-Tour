@@ -16,7 +16,7 @@ Welcome to the VIT Bhopal AR Tour! This augmented reality (AR) application is de
 ## Installation
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/VIT-Bhopal-AR-Tour.git
+    git clone https://github.com/Hk0509/VITB-AR-Tour.git
     ```
 2. **Open in Unity**:
     - Launch Unity Hub and click on the "Add" button.
